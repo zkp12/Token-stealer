@@ -1,0 +1,17 @@
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\bin\Debug\TokenStealer.exe.config
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\bin\Debug\TokenStealer.exe
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\bin\Debug\TokenStealer.pdb
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\bin\Debug\EntityFramework.dll
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\bin\Debug\System.Data.SQLite.dll
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\bin\Debug\EntityFramework.xml
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\bin\Debug\System.Data.SQLite.xml
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\obj\Debug\TokenStealer.csprojAssemblyReference.cache
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\obj\Debug\TokenStealer.csproj.CoreCompileInputs.cache
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\obj\Debug\TokenStealer.csproj.CopyComplete
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\obj\Debug\TokenStealer.exe
+C:\Users\iLinked\source\repos\TokenStealer\TokenStealer\obj\Debug\TokenStealer.pdb
